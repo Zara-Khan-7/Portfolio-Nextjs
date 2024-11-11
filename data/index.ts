@@ -76,7 +76,7 @@ export const navItems = [
       des: "Integrating a Countdown Timer into Your Projects: A sleek and functional feature to track time effortlessly, adding urgency, focus, and engagement to your application.",
       img: "/timer.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
-      link: "https://github.com/Zara-Khan-7/Next-Projects.git",
+      link: "https://countdown-timer-sandy-eight.vercel.app/",
     },
     {
       id: 2,
@@ -84,7 +84,7 @@ export const navItems = [
       des: "Welcome to my one-page portfolio – a concise showcase of my skills, projects, and passions. Explore my journey and achievements, all streamlined for a quick yet impactful experience.",
       img: "/onepage-portfolio-nextjs.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg","/fm.svg"],
-      link: "https://github.com/Zara-Khan-7/Next-Projects.git",
+      link: "https://one-page-resume-next-js.vercel.app/",
     },
     {
       id: 3,
@@ -92,7 +92,7 @@ export const navItems = [
       des: "Create personalized, professional resumes effortlessly with a dynamic resume builder. Tailored for adaptability, it offers customizable templates, real-time updates, and intuitive design to help you stand out.",
       img: "/dynamicresume-html.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg","/fm.svg"],
-      link: "https://github.com/Zara-Khan-7/Next-Projects.git",
+      link: "https://hackathon-milestone-3-4-5-improved-ui.vercel.app/",
     },
     {
       id: 4,
@@ -100,7 +100,7 @@ export const navItems = [
       des: "I developed a Figma clone website, replicating its intuitive design and collaborative features to deliver a seamless user experience for creative projects.",
       img: "/figma-nextjs.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg","/fm.svg"],
-      link: "https://github.com/Zara-Khan-7/Next-Projects.git",
+      link: "https://hackathon-milestone-3-4-5-improved-ui.vercel.app/",
     },
   ];
   
@@ -126,7 +126,7 @@ export const navItems = [
     {
       quote:
         "With extensive experience in custom CSS and Tailwind CSS, I have crafted numerous projects that showcase my ability to design visually appealing, responsive, and efficient user interfaces. My work highlights a deep understanding of styling principles, from writing custom code to leveraging utility-first frameworks for speed and scalability.",
-      name: "Cascase Styling Sheet",
+      name: "Cascade Styling Sheet",
       title: "Css/TailwindCss",
     },
     {
@@ -215,6 +215,6 @@ export const navItems = [
     {
       id: 3,
       img: "/link.svg",
-      link:'www.linkedin.com/in/zara-yousuf-7081751b6'
+      link:"www.linkedin.com/in/zara-yousuf-7081751b6",
     },
   ];
